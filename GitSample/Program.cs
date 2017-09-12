@@ -15,6 +15,8 @@ namespace GitSample
 
             Console.WriteLine("Hello world from the person that name is {0} and ID is {1}", person.Name, person.ID);
 
+            Console.WriteLine("Bad things :(");
+
         }
     }
 }
